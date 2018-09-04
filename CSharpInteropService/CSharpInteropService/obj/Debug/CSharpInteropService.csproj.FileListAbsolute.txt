@@ -1,0 +1,6 @@
+C:\Users\singh\OneDrive\Desktop\CSharpInterop\CSharpInteropService\CSharpInteropService\bin\Debug\CSharpInteropService.dll
+C:\Users\singh\OneDrive\Desktop\CSharpInterop\CSharpInteropService\CSharpInteropService\bin\Debug\CSharpInteropService.pdb
+C:\Users\singh\OneDrive\Desktop\CSharpInterop\CSharpInteropService\CSharpInteropService\obj\Debug\CSharpInteropService.csprojAssemblyReference.cache
+C:\Users\singh\OneDrive\Desktop\CSharpInterop\CSharpInteropService\CSharpInteropService\obj\Debug\CSharpInteropService.csproj.CoreCompileInputs.cache
+C:\Users\singh\OneDrive\Desktop\CSharpInterop\CSharpInteropService\CSharpInteropService\obj\Debug\CSharpInteropService.dll
+C:\Users\singh\OneDrive\Desktop\CSharpInterop\CSharpInteropService\CSharpInteropService\obj\Debug\CSharpInteropService.pdb
